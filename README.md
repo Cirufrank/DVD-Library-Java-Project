@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/l3vReTmBHnPsC4oHS/giphy.gif)
 
-DVDs.. a thing of the past... a forgotten piece of technology that's soon to fade into the digital ether. Is what they all said. But you.. you're not them... NO... you're a blue ray connoisseur. You enjoy the classics and respect the intiricacies of the digital versatile disc. This application was made for you! You have a beautiful collection of DVDs, but alas, you've been craving a console application to help you keep track of them, to share with, to write about the DVDs that made you laugh, cry, see the world in a new light. Well look no further my friend. The DVD library CRUD app is here.
+DVDs.. a thing of the past... a forgotten piece of technology that's soon to fade into the digital ether. Is what they all said. But you.. you're not them... NO... you're a blue ray connoisseur. You enjoy the classics and respect the intricacies of the digital versatile disc. This application was made for you! You have a beautiful collection of DVDs, but alas, you've been craving a console application to help you keep track of them, to share with, to write about the DVDs that made you laugh, cry, see the world in a new light. Well look no further my friend. The DVD library CRUD app is here.
 
 ## How It's Made:
 Using Java, the MVC architectural paridigm, and file storage for data persistence, I created a CRUD app that allows users to create, read, update, and delete textual DVD information.
