@@ -7,6 +7,15 @@ DVDs.. a thing of the past... a forgotten piece of technology that's soon to fad
 ## How It's Made:
 Using Java, the MVC architectural paridigm, and file storage for data persistence, I created a CRUD app that allows users to create, read, update, and delete textual DVD information.
 
+## Main functionality:
+<ul>
+    <li>Add DVD</li>
+    <li>List all DVDs</li>
+    <li>Search for DVDs by title</li>
+    <li>Update DVD</li>
+    <li>Delete DVD</li>
+</ul>
+
 ## Lessons Learned:
 <ul>
   <li>Maintaining loose coupling through applications through the use of dependency injection helps ensure our application's services do not rely so healivy on each other that if one service goes down the other is completely inoperable</li>
